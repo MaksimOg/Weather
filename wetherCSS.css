@@ -1,0 +1,28 @@
+﻿
+   body{
+    background-color:#B0C4DE;
+   }
+   #osnova{
+    background-color: #E0FFFF;
+	  margin: 50px auto auto auto;
+	  height: 450px;
+	  width: 600px;
+	  border-radius: 20px;
+   }
+    #text{
+     height: 100px;
+	   width: 600px;
+    }
+     #image{
+     height: 350px;
+	   width: 600px;
+    }
+   p{
+    font-family:century gothic;
+	   text-align:center;
+     margin:0px;
+   }
+   #button{
+    height: 20px;
+	width: 30px;
+   }
